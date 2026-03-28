@@ -14,7 +14,7 @@
     "@angular/animations": "~13.0.2",
     "@angular/common": "~13.0.2",
     "@angular/compiler": "~13.0.2",
-    "@angular/core": "~13.0.2",
+    "@angular/core": "~19.2.20",
     "@angular/forms": "~13.0.2",
     "@angular/platform-browser": "~13.0.2",
     "@angular/platform-browser-dynamic": "~13.0.2",
